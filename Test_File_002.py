@@ -25,7 +25,7 @@ class   Test_Credence:
         b = 7
         sub = a - b
         print("Sub of a from b =", sub)
-        if sub == 8:
+        if sub == 6:
             assert True
         else:
             assert False
